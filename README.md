@@ -1,6 +1,6 @@
 # ⚽ LPF Database (Liga Panameña de Fútbol)
 
-PostgreSQL database for the **Liga Panameña de Fútbol (LPF)**, including schema, sample data, and views for queries like standings and match information.
+PostgreSQL database for the Liga Panameña de Fútbol (LPF), with schema, Apertura 2024 sample data, and views for standings and match queries.
 
 ---
 
