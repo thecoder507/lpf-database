@@ -19,7 +19,7 @@ It also includes constraints, indexes, and roles for better performance and secu
 ---
 
 ## 🗂️ Database Schema (ERD)
-![LPF ERD](images/LP_ERD.png)
+![LPF ERD](images/LPF_ERD.png)
 
 
 ---
